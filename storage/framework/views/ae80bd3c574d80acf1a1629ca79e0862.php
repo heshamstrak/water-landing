@@ -1,0 +1,2 @@
+<img src="<?php echo e($partner->image_path); ?>" style="width: 100px;" alt="">
+<?php /**PATH /Volumes/DATA/Projects/Laravel/Work/water-landing/resources/views/admin/partners/data_table/image.blade.php ENDPATH**/ ?>

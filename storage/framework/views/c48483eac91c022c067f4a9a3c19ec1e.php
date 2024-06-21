@@ -1,0 +1,2 @@
+<img src="<?php echo e($different->image_path); ?>" style="width: 100px;" alt="">
+<?php /**PATH /Volumes/DATA/Projects/Laravel/Work/water-landing/resources/views/admin/differents/data_table/image.blade.php ENDPATH**/ ?>

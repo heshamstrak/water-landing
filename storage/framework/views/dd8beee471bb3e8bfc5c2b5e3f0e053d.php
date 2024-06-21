@@ -1,0 +1,2 @@
+<i class="<?php echo e($feature->icon); ?>" style="font-size: 30px"></i>
+<?php /**PATH /Volumes/DATA/Projects/Laravel/Work/water-landing/resources/views/admin/features/data_table/icon.blade.php ENDPATH**/ ?>

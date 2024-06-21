@@ -1,0 +1,1 @@
+<?php echo $contact->reply; ?><?php /**PATH /Volumes/DATA/Projects/Laravel/Work/water-landing/resources/views/admin/contacts/data_table/reply.blade.php ENDPATH**/ ?>

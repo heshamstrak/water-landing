@@ -1,0 +1,2 @@
+<img src="<?php echo e($blog->poster_path); ?>" style="width: 100px;" alt="">
+<?php /**PATH /Volumes/DATA/Projects/Laravel/Work/water-landing/resources/views/admin/blogs/data_table/poster.blade.php ENDPATH**/ ?>
